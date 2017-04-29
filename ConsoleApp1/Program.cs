@@ -10,5 +10,10 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!111");
             Console.ReadLine();
         }
+        public int test(int a,int b)
+        {
+            int s = a + b;
+            return s;
+        }
     }
 }
