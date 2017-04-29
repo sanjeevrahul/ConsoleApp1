@@ -12,7 +12,7 @@ namespace ConsoleApp1
         }
         public int test(int a,int b)
         {
-            int s = a + b;
+            int s = a + b+2;
             return s;
         }
     }
